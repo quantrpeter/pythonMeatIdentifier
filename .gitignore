@@ -14,7 +14,7 @@ build/
 *.keras
 models/*.h5
 models/*.keras
-data/
+#data/
 test_images/
 *.jpg
 *.jpeg
