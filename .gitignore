@@ -15,11 +15,11 @@ build/
 models/*.h5
 models/*.keras
 #data/
-test_images/
-*.jpg
-*.jpeg
-*.png
-*.gif
+#test_images/
+#*.jpg
+#*.jpeg
+#*.png
+#*.gif
 .DS_Store
 .idea/
 .vscode/
